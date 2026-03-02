@@ -5,6 +5,12 @@
 
 ---
 
+## TL;DR
+This project tackles a common problem in fast-growing companies: supplier billing and invoice issues that bounce between teams and get buried in long email threads. When a supplier message comes in, the tool identifies what the issue is (for example, payment status, onboarding, or an invoice question) and directs it to the right internal person. For simple requests, it can suggest a quick standard response; for complicated ones, it escalates the message with helpful context and recommended next steps so the team can act faster. After a teammate confirms the facts, the tool drafts a clear, supplier-friendly reply. Nothing is sent automatically—people review and approve before any external message goes out—helping prevent mistakes with sensitive financial information.
+
+
+---
+
 ## What This Is
 
 Orchestrai is an AI agent for Accounts Payable (AP) operations. It reads incoming supplier emails, classifies them, routes them to the correct internal team, drafts a professional reply, and generates an internal handoff note — all from a single email submission.
