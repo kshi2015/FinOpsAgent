@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "eval": "node --import tsx eval/run_eval.ts",
-    "eval:baseline": "node --import tsx eval/run_eval.ts --save-baseline"
+    "eval:baseline": "node --import tsx eval/run_eval.ts --save-baseline",
+    "eval:proactive": "node --import tsx eval/run_proactive_eval.ts",
+    "eval:all": "node --import tsx eval/run_eval.ts && node --import tsx eval/run_proactive_eval.ts"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
