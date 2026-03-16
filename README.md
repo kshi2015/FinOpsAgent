@@ -1,7 +1,7 @@
 # Orchestrai — AP Triage Agent
 
 > **AIOP901 Project — Kellogg School of Management**
-> A production-grade recreation of an n8n automation workflow, rebuilt as a full-stack AI agent with structured outputs, human-in-the-loop review, and an evaluation harness.
+> A production-grade recreation of an n8n automation workflow, rebuilt as a full-stack AI agent with structured outputs, human-in-the-loop review, and an evaluation harness. See mockups and flows here: https://www.figma.com/design/Z92vtjJDIBoMxErlwpuqJn/Orchestrai-AP-Agent?node-id=0-1&t=gPtQ5BegUmzXshAZ-1
 
 ---
 
